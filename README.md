@@ -14,10 +14,13 @@ Brogue+ is not intended to take Brogue in a more Nethacky direction; it just off
 
 Replace the contents of src/brogue with the files in this repository. Build brogue as you would normally on your platform.
 
+####How to Download and Play
+
+A Windows-only executable is available here: [link](https://drive.google.com/file/d/0B0v7VJBzKplsQmwzVWcxTkQzZmM/view?usp=sharing "Windows Download")
+
 ####Gameplay Changes
 
-  * Lightning interacts with water in new ways.  If a bolt of lightning hits a (non-flying) creature in water the bolt will not continue in a straight line.  It will instead arc to the nearest creature in the water that has not already been hit by the bolt, or terminate if no such creature exists.  Also, a bolt of lightning will effect a submerged creature, but only in water (not a bog or lava).
-  * If the caster is standing in the pool of water he can be targeted by the bolt.  Water overrides any effect of a ring of spell chaining.
+  * Lightning interacts with water in new ways.  If a bolt of lightning hits a (non-flying) creature in water the bolt will not continue in a straight line.  It will instead arc to the nearest creature in the water that has not already been hit by the bolt, or terminate if no such creature exists.  Also, a bolt of lightning will effect a submerged creature, but only in water (not a bog or lava). If the caster is standing in the pool of water he can be targeted by the bolt.  Water overrides any effect of a ring of spell chaining.
   * Medusa petrifies *everyone*.  If you think she has sealed you off from the rest of the level don't despair because her victims will eventually crumble away.
   * Rest and search have been unified.
   * Goblins, dar and ogres will enter a corridor when attacked at range.
