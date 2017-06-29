@@ -1,3 +1,6 @@
+# Deprecated
+This repository is deprecated. Please visit the new one at [bleakley/brogue](https://github.com/bleakley/brogue).
+
 ##Brogue+ v1.7.4.0
 
 Brogue+ is not intended to take Brogue in a more Nethacky direction; it just offers a few new features that I think fit well within Brogue's already very elegant systems.
